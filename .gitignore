@@ -169,4 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-resources/linux/geckodriver
+/resources/linux/geckodriver
